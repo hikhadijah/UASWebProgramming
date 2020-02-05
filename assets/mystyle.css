@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,300,400,500,600,700&display=swap');
+
+body {
+   font-family: 'Montserrat', sans-serif;
+}
+#purple {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #0a183d;
+}
+
+#bgpink {
+  background-color: #fa1368;
+}
+
+.bgpink {
+  background-color: #fa1368;
+}
+
+.col-purple {
+	background-color: #08192d;
+}
+
+
+.purple2 {
+	background-color: #0a183d;
+}
+
+.btn-pink{
+  background-color: #d81b60;
+}
+
+.btn-pink:hover {
+  background-color: #951041;
+}
+
+.brand-logo {
+  color: #d81b60 !important;
+  font-weight: 700;
+}
+
+.txt-bold {
+	font-weight: 700;
+}
+
+.login {
+  padding-top: 5px;
+}
+
+.human {
+  height: 300px !important;
+  padding-bottom: 20px;
+  margin-left: 25%;
+}
+
+.halang {
+  padding-top: 2%;
+}
+
+footer {
+  margin-top: -20px;
+  padding: 20px 0;
+  background-color: #08192d;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none !important;
+	margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+	-moz-appearance: textfield !important;
+}
+
+
+/* admin */
+.logo-nav-adm-mhs {
+  color: #d81b60 !important;
+  
+}
+
+.logo-nav-adm-mhs .kecil {
+  font-style: normal !important;
+  font-weight: 300 !important;
+  font-size: medium !important;
+  color: aliceblue;
+}
+
+
+/* material allert */
+.btn.modal-trigger {
+	display: block;
+	width: 100%;
+	padding: 30px;
+	line-height: 0px
+}
